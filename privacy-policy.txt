@@ -1,0 +1,27 @@
+Privacy Policy – Swagger Filter Extension
+
+Effective Date: November 18, 2025
+
+1. Introduction
+   The Swagger Filter browser extension (“Extension”) helps you manage and filter tags in publicly accessible Swagger/OpenAPI documentation pages. This Privacy Policy explains how the Extension handles information while you use it.
+
+2. Data Collection & Usage
+   • No External Transmission: The Extension runs entirely in your browser and does not send data to Prince Chrix or any third parties.
+   • Local Processing Only: Tag names, search text, checkbox states, and other filter settings are processed within the active Swagger page’s DOM solely to show or hide UI sections.
+   • No Persistent Storage: The Extension does not save data to external storage, cookies, or remote servers. All states reset when you refresh or close the page.
+
+3. Permissions
+   The Extension only requires access to the active Swagger documentation tab to inject UI controls and manage visibility of tags. It does not read or modify data outside the Swagger page or any authenticated content.
+
+4. Third-Party Services
+   The Extension does not integrate with analytics platforms, advertising networks, or other third-party services.
+
+5. Children’s Privacy
+   The Extension is not directed at children. It does not collect personal information from any users.
+
+6. Changes to This Policy
+   Updates to this Privacy Policy will be published in the project repository: https://github.com/PrinceChrix/swagger_filter_extension
+
+7. Contact
+   For questions or feedback, open an issue in the GitHub repository or contact Prince Chrix via the profile linked there.
+
