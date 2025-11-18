@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Swagger Controller Filter",
+  "version": "1.0",
+  "description": "Filter Swagger controllers using checkboxes.",
+  "icons": {
+    "32": "assets/swagger.png",
+    "48": "assets/swagger.png",
+    "128": "assets/swagger.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
