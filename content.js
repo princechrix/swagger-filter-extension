@@ -236,7 +236,7 @@ function injectSidebar(controllers) {
       <div class="sfs-list" id="sfs-list"></div>
       <div class="sfs-footer">
         <span>Built by Prince Chrix</span>
-        <a href="https://github.com/PrinceChrix/swagger_filter_extension" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/princechrix/swagger-filter-extension" target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
       </div>
